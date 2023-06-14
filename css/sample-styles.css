@@ -1,0 +1,41 @@
+
+.sample-form {
+    width: 300px;
+    height: 420px; 
+    position: relative;
+    left: 550px;   
+    top: 20px;
+}
+
+.sample-form label {
+    width: 250px;
+    height: 25px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.sample-button {
+    width: 200px;
+    font-size: 18px;
+    color: #626262;
+    line-height: 30px;
+    background-color: rgb(196, 216, 77);
+    color: white;
+    cursor: pointer;
+    margin: 10px;
+    
+}
+.sample-input {
+    width: 200px;
+    height: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.sample-input:required:focus {
+    border: 1px solid red;
+    outline: none;
+}
+
+/* THANK YOU PAGE */
+
